@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
 
-  java:
+  java20:
     build: ./java20/
     volumes:
       - ..:/app
